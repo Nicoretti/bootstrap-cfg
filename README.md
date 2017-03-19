@@ -13,9 +13,13 @@ The technique I use I was pointed to by [flxo](https://github.com/flxo) he share
 [blog post](https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/)
 with me which is a game changer, at least I have been for me. What did I use/try before?
 
-* Git + copy
-* Git + symlinks
-* Git + custom config + symlinks
+copy, git + copy, git + symlinks, git + custom config + symlinks, etc.
+
+* [cp](http://man7.org/linux/man-pages/man1/cp.1.html)
+* [ln](http://man7.org/linux/man-pages/man1/ln.1.html)
+* [git](https://git-scm.com/)
+* [config-installer](https://github.com/Nicoretti/config-installer)
+* [gnu stow](https://www.gnu.org/software/stow/) 
 
 ## The config/dotfile repository
 My config file(s) can be found [here](https://github.com/Nicoretti/terminal-config)
