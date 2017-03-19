@@ -23,7 +23,8 @@ My config file(s) can be found [here](https://github.com/Nicoretti/terminal-conf
 ## Simillar alternatives
 
 ### YADM (Yet Another Dotfile Manager)
-
+If you are not interested in getting the gist behind the technique and rather want something that just works 
+out of the box nicely, use YADM. It also comes with nice additonal cmd tooling like encryption out of the box.
 Details can be found [here](https://thelocehiliosan.github.io/yadm/)
 
 
